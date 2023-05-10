@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>1429140</docId>
+    <title>Eloisa Sample Page.pdf</title>
+    <uploadTimestamp>1683725723915</uploadTimestamp>
+    <uploader>littvs@mcmaster.ca</uploader>
+    <uploaderId>165613</uploaderId>
+    <nrOfPages>1</nrOfPages>
+    <pageId>55434362</pageId>
+    <url>https://files.transkribus.eu/Get?fileType=view&amp;id=WEWXJQHHQJZPJRJCMXGMHQTM</url>
+    <thumbUrl>https://files.transkribus.eu/Get?fileType=thumb&amp;id=WEWXJQHHQJZPJRJCMXGMHQTM</thumbUrl>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_1429140</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>205114</colId>
+            <colName>Clever Girl</colName>
+            <description>created by littvs@mcmaster.ca</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+</trpDocMetadata>
