@@ -21,7 +21,7 @@
    <text>
       <body>
          <div>
-           <pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_tr_1" type="">
+           <pb cert="high" facs="https://raw.githubusercontent.com/littvs/Eloisa/main/0001_p001.jpg" xml:space="default" n="1" xml:id="img_0001"/><ab facs="#facs_1_tr_1" type="">
                <lb facs="#facs_1_tr_1_tl_1" n="N001"/>ELOISA.
                <lb facs="#facs_1_tr_1_tl_2" n="N002"/>133
                <lb facs="#facs_1_tr_1_tl_3" n="N003"/>I find the country more delightful, the verdure fresher and livelier, the air more temperate
