@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eloisa Sample Page.pdf</title>
+         </titleStmt>
+         <seriesStmt>
+            <title>Clever Girl</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main">Eloisa Sample Page.pdf</title><idno type="Transkribus">1429140</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface lrx="2479" lry="3508" ulx="0" uly="0" xml:id="facs_1">
+         <graphic height="3508px" url="55434362.jpg" width="2479px"/>
+         <graphic height="3508px" url="https://files.transkribus.eu/Get?id=WEWXJQHHQJZPJRJCMXGMHQTM&amp;fileType=view" width="2479px"/>
+         <zone points="397,281 1988,281 1988,1613 397,1613" rendition="TextRegion" xml:id="facs_1_tr_1">
+            <zone points="732,341 1065,333 1118,357 1188,297 1237,349 1324,305 1382,357 1437,325 1616,347 1556,270 1451,291 1394,254 1370,278 1092,266 1027,315 946,268 878,315 815,270 732,291" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+            <zone points="1802,351 1844,357 1869,381 1915,379 1909,287 1893,289 1877,303 1854,283 1842,280 1818,301 1798,303" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+            <zone points="458,436 1057,468 1304,432 1463,468 1963,434 1963,400 1804,414 1709,369 1657,416 1556,367 1303,406 458,389" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+            <zone points="387,506 1792,539 1975,519 1973,468 1259,448 1197,494 1088,448 795,478 426,446 385,478" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+            <zone points="393,597 1969,597 1969,545 1899,517 1836,559 1489,517 1243,555 1205,519 1150,555 393,547" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+            <zone points="389,664 1965,668 1965,611 1850,591 1542,634 1410,595 1364,626 389,609" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+            <zone points="398,736 1957,755 1957,690 1828,670 398,686" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+            <zone points="389,805 1959,805 1925,745 389,767" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+            <zone points="389,878 1965,886 1965,835 1812,823 712,817 630,858 389,823" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+            <zone points="389,950 1370,952 1408,989 1453,956 1973,956 1973,904 1816,880 1749,932 1530,888 1150,890 1102,928 1021,890 950,930 894,886 757,924 656,888 591,930 389,904" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+            <zone points="389,1019 1959,1047 1959,977 1790,960 1562,1005 1503,960 389,985" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+            <zone points="389,1102 1973,1108 1973,1057 1822,1033 1745,1080 1493,1033 1443,1071 1312,1031 1132,1078 389,1047" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+            <zone points="393,1178 1982,1176 1982,1120 1832,1104 1739,1148 1693,1104 1540,1148 1463,1106 1400,1146 1112,1106 393,1122" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+            <zone points="389,1245 1965,1255 1965,1199 1786,1174 1564,1211 1231,1172 1019,1223 389,1193" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+            <zone points="389,1320 1975,1324 1975,1257 1820,1301 1758,1247 1398,1247 1322,1285 787,1253 607,1297 389,1263" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+            <zone points="391,1404 1182,1390 1150,1346 1015,1324 930,1364 847,1328 805,1356 690,1322 531,1364 450,1328 389,1352" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+            <zone points="1207,1386 1362,1406 1427,1384 1495,1412 1574,1382 1971,1402 1971,1340 1866,1340 1818,1370 1760,1322 1687,1346 1596,1320 1558,1356 1445,1340 1382,1372 1326,1320 1207,1372" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+            <zone points="389,1453 1975,1463 1975,1417 1869,1392 1749,1439 1667,1392 1207,1439 1110,1394 1065,1431 1029,1396 389,1425" rendition="Line" xml:id="facs_1_tr_1_tl_18"/>
+            <zone points="393,1529 1253,1564 1981,1536 1963,1489 1788,1469 1733,1501 1370,1471 1306,1519 1186,1471 393,1489" rendition="Line" xml:id="facs_1_tr_1_tl_19"/>
+            <zone points="389,1602 1310,1638 1358,1606 1975,1612 1975,1562 1776,1546 1176,1578 969,1538 920,1588 700,1546 389,1562" rendition="Line" xml:id="facs_1_tr_1_tl_20"/></zone>
+         <zone points="403,1618 1985,1618 1985,2947 403,2947" rendition="TextRegion" xml:id="facs_1_tr_2">
+            <zone points="393,1681 1745,1709 1977,1685 1975,1620 391,1643" rendition="Line" xml:id="facs_1_tr_2_tl_1"/>
+            <zone points="395,1762 1975,1764 1975,1687 1873,1727 1669,1691 1572,1733 1352,1689 1283,1737 1190,1687 1043,1733 948,1687 866,1727 395,1687" rendition="Line" xml:id="facs_1_tr_2_tl_2"/>
+            <zone points="395,1828 1975,1832 1975,1784 1899,1760 1842,1806 1673,1758 1532,1794 1380,1756 1328,1798 1257,1756 1047,1756 987,1806 916,1764 868,1798 732,1760 630,1798 395,1778" rendition="Line" xml:id="facs_1_tr_2_tl_3"/>
+            <zone points="395,1925 619,1889 1975,1907 1975,1858 1852,1830 1301,1840 1219,1881 987,1830 906,1868 862,1832 395,1854" rendition="Line" xml:id="facs_1_tr_2_tl_4"/>
+            <zone points="395,1973 1979,1982 1979,1915 395,1937" rendition="Line" xml:id="facs_1_tr_2_tl_5"/>
+            <zone points="395,2044 1969,2044 1951,1984 1703,2016 1667,1982 1188,1977 1126,2028 1080,1986 395,2000" rendition="Line" xml:id="facs_1_tr_2_tl_6"/>
+            <zone points="395,2115 1979,2123 1963,2046 1804,2092 1723,2048 1663,2092 1626,2056 395,2074" rendition="Line" xml:id="facs_1_tr_2_tl_7"/>
+            <zone points="398,2201 1982,2191 1965,2125 1275,2127 1229,2173 1001,2125 398,2151" rendition="Line" xml:id="facs_1_tr_2_tl_8"/>
+            <zone points="400,2258 1981,2268 1981,2216 1862,2201 400,2220" rendition="Line" xml:id="facs_1_tr_2_tl_9"/>
+            <zone points="395,2335 1804,2349 1784,2280 395,2292" rendition="Line" xml:id="facs_1_tr_2_tl_10"/>
+            <zone points="1657,2928 1691,2948 1745,2948 1762,2932 1780,2948 1840,2948 1864,2924 1887,2948 1977,2932 1977,2892 1941,2871 1897,2877 1879,2863 1858,2879 1796,2861 1760,2887 1697,2863 1681,2879 1657,2879" rendition="Line" xml:id="facs_1_tr_2_tl_11"/></zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+           <pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_tr_1" type="">
+               <lb facs="#facs_1_tr_1_tl_1" n="N001"/>ELOISA.
+               <lb facs="#facs_1_tr_1_tl_2" n="N002"/>133
+               <lb facs="#facs_1_tr_1_tl_3" n="N003"/>I find the country more delightful, the ver-
+               <lb facs="#facs_1_tr_1_tl_4" n="N004"/>dure fresher and livelier, the air more temperate
+               <lb facs="#facs_1_tr_1_tl_5" n="N005"/>and serene than ever I did before; even the
+               <lb facs="#facs_1_tr_1_tl_6" n="N006"/>feathered songsters of the sky seem to tune their
+               <lb facs="#facs_1_tr_1_tl_7" n="N007"/>tender throats with more harmony and pleasure;
+               <lb facs="#facs_1_tr_1_tl_8" n="N008"/>the murmuring rills invite to love-inspiring dal-
+               <lb facs="#facs_1_tr_1_tl_9" n="N009"/>liance, while the blossoms of the vine regale me
+               <lb facs="#facs_1_tr_1_tl_10" n="N010"/>from afar with the choicest perfumes. Some
+               <lb facs="#facs_1_tr_1_tl_11" n="N011"/>secret charm enlivens every object, or raises my
+               <lb facs="#facs_1_tr_1_tl_12" n="N012"/>sensations to a more exquisite degree. I am
+               <lb facs="#facs_1_tr_1_tl_13" n="N013"/>tempted to imagine that even the earth adorns
+               <lb facs="#facs_1_tr_1_tl_14" n="N014"/>herself to make a nuptial bed for your happy
+               <lb facs="#facs_1_tr_1_tl_15" n="N015"/>lover, worthy of the passion which he feels, and
+               <lb facs="#facs_1_tr_1_tl_16" n="N016"/>the goddess he adores.
+               <lb facs="#facs_1_tr_1_tl_17" n="N017"/>O, my Eloisa, my
+               <lb facs="#facs_1_tr_1_tl_18" n="N018"/>dearer better half! let us immediately add to
+               <lb facs="#facs_1_tr_1_tl_19" n="N019"/>these beauties of the spring, the presence of two
+               <lb facs="#facs_1_tr_1_tl_20" n="N020"/>faithful lovers. Let us carry the true sentiments
+            </ab><ab facs="#facs_1_tr_2" type="">
+               <lb facs="#facs_1_tr_2_tl_1" n="N001"/>of pleasures to places which comparatively afford
+               <lb facs="#facs_1_tr_2_tl_2" n="N002"/>but an empty idea of it. Let us animate all
+               <lb facs="#facs_1_tr_2_tl_3" n="N003"/>nature which is absolutely dead without the
+               <lb facs="#facs_1_tr_2_tl_4" n="N004"/>genial warmth of love. Am I yet to stay three
+               <lb facs="#facs_1_tr_2_tl_5" n="N005"/>days, three whole days? Oh what an age to a
+               <lb facs="#facs_1_tr_2_tl_6" n="N006"/>fond expecting lover! Intoxicated with my pas-
+               <lb facs="#facs_1_tr_2_tl_7" n="N007"/>sion, I wait that happy moment with the most
+               <lb facs="#facs_1_tr_2_tl_8" n="N008"/>melancholy impatience. Oh how happy should
+               <lb facs="#facs_1_tr_2_tl_9" n="N009"/>we be, if heaven would annihilate those tedious
+               <lb facs="#facs_1_tr_2_tl_10" n="N010"/>intervals which retard the blissful moment!
+               <lb facs="#facs_1_tr_2_tl_11" n="N011"/>LET-
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>
