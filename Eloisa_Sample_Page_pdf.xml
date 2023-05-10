@@ -4,6 +4,9 @@
          <titleStmt>
             <title type="main">Eloisa Sample Page.pdf</title>
          </titleStmt>
+         <publicationStmt>
+            <p>  </p>
+            </publicationStmt>
          <seriesStmt>
             <title>Clever Girl</title>
          </seriesStmt>
@@ -21,13 +24,11 @@
            <pb facs="#facs_1" n="1" xml:id="img_0001"/><ab facs="#facs_1_tr_1" type="">
                <lb facs="#facs_1_tr_1_tl_1" n="N001"/>ELOISA.
                <lb facs="#facs_1_tr_1_tl_2" n="N002"/>133
-               <lb facs="#facs_1_tr_1_tl_3" n="N003"/>I find the country more delightful, the ver-
-               <lb facs="#facs_1_tr_1_tl_4" n="N004"/>dure fresher and livelier, the air more temperate
+               <lb facs="#facs_1_tr_1_tl_3" n="N003"/>I find the country more delightful, the verdure fresher and livelier, the air more temperate
                <lb facs="#facs_1_tr_1_tl_5" n="N005"/>and serene than ever I did before; even the
                <lb facs="#facs_1_tr_1_tl_6" n="N006"/>feathered songsters of the sky seem to tune their
                <lb facs="#facs_1_tr_1_tl_7" n="N007"/>tender throats with more harmony and pleasure;
-               <lb facs="#facs_1_tr_1_tl_8" n="N008"/>the murmuring rills invite to love-inspiring dal-
-               <lb facs="#facs_1_tr_1_tl_9" n="N009"/>liance, while the blossoms of the vine regale me
+               <lb facs="#facs_1_tr_1_tl_8" n="N008"/>the murmuring rills invite to love-inspiring dalliance, while the blossoms of the vine regale me
                <lb facs="#facs_1_tr_1_tl_10" n="N010"/>from afar with the choicest perfumes. Some
                <lb facs="#facs_1_tr_1_tl_11" n="N011"/>secret charm enlivens every object, or raises my
                <lb facs="#facs_1_tr_1_tl_12" n="N012"/>sensations to a more exquisite degree. I am
@@ -45,14 +46,11 @@
                <lb facs="#facs_1_tr_2_tl_3" n="N003"/>nature which is absolutely dead without the
                <lb facs="#facs_1_tr_2_tl_4" n="N004"/>genial warmth of love. Am I yet to stay three
                <lb facs="#facs_1_tr_2_tl_5" n="N005"/>days, three whole days? Oh what an age to a
-               <lb facs="#facs_1_tr_2_tl_6" n="N006"/>fond expecting lover! Intoxicated with my pas-
-               <lb facs="#facs_1_tr_2_tl_7" n="N007"/>sion, I wait that happy moment with the most
+               <lb facs="#facs_1_tr_2_tl_6" n="N006"/>fond expecting lover! Intoxicated with my passion, I wait that happy moment with the most
                <lb facs="#facs_1_tr_2_tl_8" n="N008"/>melancholy impatience. Oh how happy should
                <lb facs="#facs_1_tr_2_tl_9" n="N009"/>we be, if heaven would annihilate those tedious
                <lb facs="#facs_1_tr_2_tl_10" n="N010"/>intervals which retard the blissful moment!
-               <lb facs="#facs_1_tr_2_tl_11" n="N011"/>LET-
-            </ab>
-         </div>
+               <lb facs="#facs_1_tr_2_tl_11" n="N011"/></ab></div>
       </body>
    </text>
 </TEI>
